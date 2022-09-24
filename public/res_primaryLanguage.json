@@ -59,8 +59,8 @@
         "startDate": "2022",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
