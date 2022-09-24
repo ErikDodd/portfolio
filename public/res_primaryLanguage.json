@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Erik Dodd. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 Hello I'm Erik Dodd and welcome to my Portfolio Page! I'm a Software Developer with over 5 years of experience in Sales, Marketing, and Customer Service. I'm passionate about Technology and building websites and applications that users find aesthetically pleasing and interactive. I'm pursuing a career in Software Development because I enjoy problem-solving, and learning new skills, and using technology for social good. I have experience working in businesses of all sizes including start-ups, enterprise-level Tech Companies, small businesses, and even in the non-profit sector. I'm a strong individual performer with a history of consistently high KPI performance. I value the importance of teamwork and building quality relationships with my colleagues and clients.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,12 +11,12 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
+        "title": "Memory Game",
+        "startDate": "2022",
         "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/memory-game/p1.jpg",
+          "images/portfolio/memory-game/p2.jpg"
         ],
         "url": "",
         "technologies": [
@@ -35,12 +35,12 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Gallery of Horns",
+        "startDate": "2022",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/gallery-of-horns/p1.jpg",
+          "images/portfolio/gallery-of-horns/p2.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -55,12 +55,12 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "301 Final Project",
+        "startDate": "2022",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -81,9 +81,9 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Avvo",
+        "title": "Account Executive",
+        "years": "11.2019 - 08.2020",
         "mainTech": [
           "Angular 8/9/10"
         ],
@@ -100,9 +100,9 @@
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Renova Exterior Detailing",
+        "title": "Director of Marketing",
+        "years": "07.2017 - 07.2018",
         "mainTech": [
           "Angular 7/8"
         ],
