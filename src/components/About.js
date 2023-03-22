@@ -3,7 +3,6 @@ import { Icon } from "@iconify/react";
 import pythonIcon from "@iconify/icons-logos/python"
 import javascriptIcon from "@iconify/icons-logos/javascript"
 import reactIcon from "@iconify/icons-logos/react";
-import vueIcon from "@iconify/icons-logos/vue";
 
 class About extends Component {
   render() {
