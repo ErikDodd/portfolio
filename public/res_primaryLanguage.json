@@ -13,7 +13,7 @@
       {
         "title": "Memory Game",
         "startDate": "SEPTEMBER 2022",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "description": "The Problem Domain is that Memory decreases with lack of use, people enjoy fun games, and want to be successfully at these games. So we designed a Memory Game that allows users to select tiles clicking on them to find hidden pairs. When pairs are matched, they are eliminated from the board. User sees current high score, current score, and number of attempts on the screen. High score is stored locally for comparison. We also wanted to give the game an old school vibe, since we love Nintendo and other 80s/90s video games. The application was built using vanilla Javascript, CSS, HTML, and Local Storage.",
         "images": [
           "images/portfolio/memory-game/p1.jpg",
           "images/portfolio/memory-game/p2.jpg"
@@ -37,7 +37,7 @@
       {
         "title": "VenU",
         "startDate": "OCTOBER 2022",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "description": "The Problem Domain is that people don't always know where to find live music and entertainment events in their city or anywhere in the US. People also don't always know where to find venue information or artist tour information. So we developed a web application that helps users search for venues and tour information from artists. This is a Full Stack Application (MERN) that allows userse to search by venue, by artist, and do a bit more",
         "images": [
           "images/portfolio/venU/v1.jpg",
           "images/portfolio/venU/v2.jpg",
@@ -68,7 +68,7 @@
       {
         "title": "DEV_BFF",
         "startDate": "JANUARY 2023",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "description": "The Problem Domain is that Software Developers/Engineers spend lots of time researching and reading long/highly technical articles and documents. This can take quite a bit of time and energy and often requires looking at multiple websites or articles. We wanted to develop a tool that would help Developers/Engineers save time and help them better simplify and understand new topics. So we built a backend CLI application that allows users to ask a coding related question and get an fast, easy to understand response. This application connects to the GPT3 AI and uses a combination of web scraping, automation, and regex to scrape the top result from the search engine and then translate it into an 3-5 paragraphs that are easy to understand. The application also allows you to get another article and comes with a cool accessibility feature that reads the text for you. This application was built using Python, PyCharm, GPT3, Beautiful Soup, Regex, and Pytest.",
         "images": [
           "images/portfolio/dev-bff/devbff.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
