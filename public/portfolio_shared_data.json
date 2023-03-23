@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Erik M. Dodd",
-      "titles": [ "Full Stack Developer - MERN - Javascript - CSS" ],
+      "titles": [ "Full Stack Developer - MERN - Python - Javascript - CSS" ],
       "social": [
         {
           "name": "github",
@@ -19,8 +19,54 @@
     "skills": {
       "icons": [
         {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "70"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "MongoDb",
+          "class": "devicon-mongodb-plain",
+          "level": "90"
+        },
+        {
+          "name": "Express",
+          "class": "devicon-express-original",
+          "level": "70"
+          
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "60"
+        },
+        {
+          "name": "NodeJs",
+          "class": "devicon-nodejs-plain",
+          "level": "75"
+        },
+        {
+          "name": "NextJs",
+          "class": "devicon-nextjs-original",
+          "level": "75"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "75"
+        },
+        {
           "name": "HTML 5",
           "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "Tailwindcss",
+          "class": "devicon-tailwindcss-plain",
           "level": "95"
         },
         {
@@ -29,34 +75,19 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
+          "name": "postgresql",
+          "class": "devicon-postgresql-plain",
+          "level": "95"
         },
         {
-          "name": "MongoDb",
-          "class": "devicon-mongodb-plain",
-          "level": "90"
+          "name": "pandas",
+          "class": "devicon-pandas-original",
+          "level": "95"
         },
         {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
-        },
-        {
-          "name": "NodeJs",
-          "class": "devicon-nodejs-plain",
-          "level": "75"
-        },
-        {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
-        },
-        {
-          "name": "React",
-          "class": "devicon-react-plain",
-          "level": "60"
+          "name": "Bash",
+          "class": "devicon-bash-plain",
+          "level": "95"
         }
       ]
     }
