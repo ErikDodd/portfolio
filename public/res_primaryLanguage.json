@@ -18,7 +18,7 @@
           "images/portfolio/memory-game/p1.jpg",
           "images/portfolio/memory-game/p2.jpg"
         ],
-        "url": "",
+        "url": "https://ianmcshoe.github.io/Memory-Game/",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
@@ -44,7 +44,7 @@
           "images/portfolio/venU/v3.jpg",
           "images/portfolio/venU/v4.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://venu301.netlify.app/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -71,7 +71,8 @@
         "description": "The Problem Domain is that Software Developers/Engineers spend lots of time researching and reading long/highly technical articles and documents. This can take quite a bit of time and energy and often requires looking at multiple websites or articles. We wanted to develop a tool that would help Developers/Engineers save time and help them better simplify and understand new topics. So we built a backend CLI application that allows users to ask a coding related question and get an fast, easy to understand response. This application connects to the GPT3 AI and uses a combination of web scraping, automation, and regex to scrape the top result from the search engine and then translate it into an 3-5 paragraphs that are easy to understand. The application also allows you to get another article and comes with a cool accessibility feature that reads the text for you. This application was built using Python, PyCharm, GPT3, Beautiful Soup, Regex, and Pytest.",
         "images": [
           "images/portfolio/dev-bff/devbff.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/dev-bff/devbff2.jpg",
+          "images/portfolio/dev-bff/devbff3.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
