@@ -68,7 +68,7 @@
       {
         "title": "DEV_BFF",
         "startDate": "JANUARY 2023",
-        "description": "The Problem Domain is that Software Developers/Engineers spend lots of time researching and reading long/highly technical articles and documents. This can take quite a bit of time and energy and often requires looking at multiple websites or articles. We wanted to develop a tool that would help Developers/Engineers save time and help them better simplify and understand new topics. So we built a backend CLI application that allows users to ask a coding related question and get an fast, easy to understand response. This application connects to the GPT3 AI and uses a combination of web scraping, automation, and regex to scrape the top result from the search engine and then translate it into an 3-5 paragraphs that are easy to understand. The application also allows you to get another article and comes with a cool accessibility feature that reads the text for you. This application was built using Python, PyCharm, GPT3, Beautiful Soup, Regex, and Pytest.",
+        "description": "The Problem Domain is that Software Developers/Engineers spend lots of time researching and reading long/highly technical articles and documents. This can take quite a bit of time and energy and often requires looking at multiple websites or articles. We wanted to develop a tool that would help Developers/Engineers save time and help them better simplify and understand new topics. So we built a backend CLI application that allows users to ask a coding related question and get a fast, easy to understand response. This application connects to the GPT3 AI and uses a combination of web scraping, automation, and regex to scrape the top result from the search engine and then translate it into an 3-5 paragraphs that are easy to understand. The application also allows you to get another article and comes with a cool accessibility feature that reads the text for you. This application was built using Python, PyCharm, GPT3, Beautiful Soup, Regex, and Pytest.",
         "images": [
           "images/portfolio/dev-bff/devbff.jpg",
           "images/portfolio/dev-bff/devbff2.jpg",
@@ -81,8 +81,38 @@
             "name": "Python"
           }
         ]
+      },
+      {
+        "title": "Mishnar Portfolio",
+        "startDate": "MARCH 2023",
+        "description": "Built a website for my girlfriend's business to showcase her styling, creative direction and art direction. Designed to be elegant and clean with main emphasis on the visual content. The website has some nice style elements like highlighting the image when you hover over it, increase the image's size when you hover over, a modal, and some other fun stylistic elements. ",
+        "images": [
+          "images/portfolio/mishnar/mishnar1.jpg",
+          "images/portfolio/mishnar/mishnar4.jpg",
+          "images/portfolio/mishnar/mishnar3.jpg"
+        ],
+        "url": "TBD..",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          }
+        ]
       }
     ],
+    
     "experience": [
       {
         "company": "Avvo",
