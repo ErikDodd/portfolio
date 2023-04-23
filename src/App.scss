@@ -61,6 +61,15 @@ header .nav {
 
 @keyframes octocat-wave {0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}
 
+.mb-0 {
+	background-image: url("../public/images/blueskies.jpg");
+	background-repeat: repeat;
+	-webkit-background-clip: text;
+	color: transparent;
+	font-size: 75px;
+	background-position: center right;
+}
+
 .language-icon {
 	font-size: 50px;
 	cursor: pointer;
@@ -123,7 +132,8 @@ header h1 {
 
 #about {
 	background: #fff;
-	background-image: url("../public/images/water.jpg");
+	background-image: url("../public/images/blueskies.jpg");
+	background-position: center right;
 	overflow: hidden;
 }
 
