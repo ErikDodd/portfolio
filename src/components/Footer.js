@@ -56,12 +56,12 @@ class Footer extends Component {
             <div className="col">
               <div className="copyright py-4 text-center">
                 <div className="container">
-                  <small>
+                  {/* <small>
                     Maintained by{" "}
                     {this.props.sharedBasicInfo
                       ? this.props.sharedBasicInfo.name
                       : "???"}
-                  </small>
+                  </small> */}
                 </div>
               </div>
             </div>
